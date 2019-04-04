@@ -66,3 +66,7 @@ kubectl get pods
 
 * https://docs.aws.amazon.com/eks/latest/userguide/getting-started.html#eks-guestbook
 * https://kubernetes.io/docs/tutorials/stateless-application/guestbook/
+
+#### Launch Splunk Cluster on EKS
+
+* [Splunk-on-Kubernetes](https://www.splunk.com/blog/2018/12/17/deploy-splunk-enterprise-on-kubernetes-splunk-connect-for-kubernetes-and-splunk-insights-for-containers-beta-part-1.html)
