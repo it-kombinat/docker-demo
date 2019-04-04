@@ -70,3 +70,12 @@ kubectl get pods
 #### Launch Splunk Cluster on EKS
 
 * [Splunk-on-Kubernetes](https://www.splunk.com/blog/2018/12/17/deploy-splunk-enterprise-on-kubernetes-splunk-connect-for-kubernetes-and-splunk-insights-for-containers-beta-part-1.html)
+
+```
+# Check service
+kubectl -n splunk get svc
+# Get deployment status
+kubectl -n splunk get deployment
+# get replicaset status
+kubectl -n splunk get svc
+```
